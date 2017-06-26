@@ -16,6 +16,7 @@ var users = [{
   password: 'c',
   type: 'supplier'
 }];
+
 function getUserByProperty(key, value, strict, multiple, case_insensitive) {
   var result = [];
 
